@@ -46,7 +46,7 @@ export default class QuizCreator extends Component {
     formControls: createFormControls()
   }
 
-  sibmitHandler = event => {
+  submitHandler = event => {
     event.preventDefault()
   }
 
