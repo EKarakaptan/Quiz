@@ -4,6 +4,9 @@ import './index.module.css'
 import App from './App'
 import { BrowserRouter } from 'react-router-dom'
 import * as serviceWorker from './serviceWorker'
+// import { createStore } from 'redux'
+
+// const store = createStore()
 
 const app = (
   <BrowserRouter>
